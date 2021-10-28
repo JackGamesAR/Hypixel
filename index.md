@@ -1,1 +1,1 @@
-![HypixelLevel](gen.plancke.io/exp/JackGamesAR.png)
+![HypixelLevel](https://gen.plancke.io/exp/JackGamesAR.png)
