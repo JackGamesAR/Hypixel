@@ -1,1 +1,1 @@
-[IMG]gen.plancke.io/exp/JackGamesAR.png[/IMG]
+![image](gen.plancke.io/exp/JackGamesAR.png)
